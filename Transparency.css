@@ -1,0 +1,47 @@
+/* Transparency v2 */
+html,
+body,
+.appAsidePanelWrapper_a3002d,
+.notAppAsidePanel_a3002d,
+.appMount__51fd7,
+.wrapper__452c3,
+.layerContainer_da8173,
+.canvasWrapper_f7aebd,
+.canvas_eb6eba,
+.gadientHighlight__452c3,
+.base_c48ade,
+.app__160d8,
+.bg__960e4,
+.layer__960e4, .baseLayer__960e4,
+.container_c48ade,
+
+.bar_c38106, /* Top bar */
+
+.content_c48ade /* Under top bar */ {
+  background: transparent !important;
+}
+
+/* Transparent Sidebar v2 */
+.sidebar_c48ade,
+nav,
+.wrapper_ef3116 .guilds_c48ade,
+.tree_ef3116,
+.itemsContainer_ef3116,
+
+.sidebarList_c48ade, .sidebarListRounded_c48ade,
+.privateChannels__35e86,
+.scroller__99e7c, .thin__99f8c .scrollerBase__99f8c .fade__99f8c,
+.content__99f8c,
+.channel__972a0 .container_e45859,
+ul {
+  background: transparent !important;
+}
+
+/* Transparent main page & chat v2 */
+.page_c48ade, /* Main page */ 
+main,
+.images-dark .container__9293f .themed__9293f, section, /* Tab bar */ 
+.tabBody__133bf,
+.chat_f75fb0 /*Chat*/ {
+  background: transparent !important;
+}
