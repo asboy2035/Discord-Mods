@@ -38,6 +38,8 @@ nav,
 .content__99f8c,
 .channel__972a0 .container_e45859,
 ul,
+.container_f37cb1, .clickable_f37cb1, /* server button */ 
+header,
 .container__551b0 /*discovery */ {
   background: transparent !important;
 }
@@ -49,7 +51,17 @@ ul,
   background: transparent !important;
 }
 
+/* Transparent member list right sidebar */
+.container_c8ffbb,
+aside,
+.members_c8ffbb {
+  background: transparent !important;
+}
+
 /* Transparent main page & chat v2 */
+:root {
+  --background-base-lower: transparent !important;
+}
 .page_c48ade, /* Main page */ 
 main,
 .images-dark .container__9293f .themed__9293f, section, /* Tab bar */ 
@@ -65,6 +77,9 @@ section,
 .shop__6db1d, /* shop  */
 .shopScroll__6db1d, .thin_d125d2, .scrollerBase_d125d2,
 .shopViewWrapper__6db1d, .visible__6db1d,
-.shop__08415 {
+.shop__08415,
+.page_c791b2, /* Members page */
+.header_c791b2, .container__9293f, .themed__9293f,
+.thin_d125d2, .scrollerBase_d125d2 {
   background: transparent !important;
 }
