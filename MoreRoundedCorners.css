@@ -45,6 +45,11 @@
   border-radius: 1.75rem;
 }
 
+/* Rounded Upload Attachments */
+.upload_aa605f {
+  border-radius: 1rem !important;
+}
+
 /* Rounded account card list (account switcher) */
 .list__920b8 {
   border-radius: 1rem;
