@@ -23,6 +23,7 @@ Note: You will need a Discord client mod to use these styles. Check out [Vencord
    <img width="147" alt="image" src="https://github.com/user-attachments/assets/87f7f9d2-c14e-45cb-aaed-1e2193ed4ae9" />
    <img width="119" alt="SCR-20250227-puzn" src="https://github.com/user-attachments/assets/6d4c92e1-060b-4e58-8d07-8483df5b7f23" />
    <img width="90" alt="SCR-20250227-pvcd" src="https://github.com/user-attachments/assets/adf797b2-02ff-4d97-aa43-a36578846146" />
+   
    ![CleanShot 2025-03-15 at 09 12 22@2x](https://github.com/user-attachments/assets/d2dd6a6d-8f98-4522-a6a0-407c56e9ab8d)
 
 
