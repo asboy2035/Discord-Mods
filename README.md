@@ -37,5 +37,12 @@ Note: You will need a Discord client mod to use these styles. Check out [Vencord
 
    <img width="146" alt="image" src="https://github.com/user-attachments/assets/d9a7eece-076e-4232-92d8-b9769a6954e1" />
 
+7. ### [macOSBorder](https://github.com/asboy2035/Discord-Mods/raw/refs/heads/main/macOSBorder.css)
+   (Designed for Mac) Brings back the white border around the window, macOS style.
+   ![Before](https://github.com/user-attachments/assets/534fccc6-1449-4280-8d4c-5f50339dbe7b)
+   ![After](https://github.com/user-attachments/assets/c0b0040a-50d5-48d1-a3ed-1719f085d0ae)
+
+   
+
 
 Notice: I am not connected to or affiliated with personally to Discord or Vencord. Use client mods at your own risk.
