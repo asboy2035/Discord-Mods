@@ -1,0 +1,7 @@
+/* Bring back macOS app border  */
+body {
+  border: rgba(201, 201, 201, 0.5) 1px solid;
+  border-radius: 10px;
+  width: calc(100vw - 2px);
+  height: calc(100vh - 2px);
+}
