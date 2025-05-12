@@ -54,3 +54,14 @@
 .list__920b8 {
   border-radius: 1rem;
 }
+
+/* Rounded images */
+.imageWrapper_af017a {
+  border-radius: 1.25rem;
+}
+/* Move buttons */
+.hoverButtonGroup__06ab4 {
+  top: 0.5rem;
+  right: 0.5rem;
+  border-radius: 0.75rem;
+}
