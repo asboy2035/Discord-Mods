@@ -61,10 +61,15 @@
 }
 
 /* Move buttons */
-.hoverButtonGroup__06ab4 {
+.hoverButtonGroup__06ab4, .imageAccessory_af017a {
   top: 0.5rem !important;
-  right: 0.5rem !important;
   border-radius: 0.75rem !important;
+}
+.hoverButtonGroup__06ab4 {
+  right: 0.5rem !important;
+}
+.imageAccessory_af017a {
+  left: 0.5rem !important;
 }
 
 /* Rounded embed */
