@@ -60,10 +60,15 @@
   border-radius: 1.25rem;
 }
 /* Move buttons */
-.hoverButtonGroup__06ab4 {
+.hoverButtonGroup__06ab4, .imageAccessory_af017a {
   top: 0.5rem;
-  right: 0.5rem;
   border-radius: 0.75rem;
+}
+.hoverButtonGroup__06ab4 {
+  right: 0.5rem;
+}
+.imageAccessory_af017a {
+  left: 0.5rem;
 }
 
 /* Rounded embed */
