@@ -66,3 +66,8 @@
   right: 0.5rem !important;
   border-radius: 0.75rem !important;
 }
+
+/* Rounded embed */
+.embed__623de {
+  border-radius: 1.5rem !important;
+}
