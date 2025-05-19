@@ -57,12 +57,12 @@
 
 /* Rounded images */
 .imageWrapper_af017a {
-  border-radius: 1.25rem !important;
+  border-radius: 1rem !important;
 }
 
 /* Move buttons */
 .hoverButtonGroup__06ab4, .imageAccessory_af017a {
-  top: 0.5rem !important;
+  top: 0.25rem !important;
   border-radius: 0.75rem !important;
 }
 .hoverButtonGroup__06ab4 {
@@ -75,4 +75,9 @@
 /* Rounded embed */
 .embed__623de, .embedWrapper_b7e1cb, .embedFull__623de {
   border-radius: 1.5rem !important;
+}
+
+/*Rounded cards*/
+.card_f369d {
+  border-radius: 1.25rem !important;
 }
