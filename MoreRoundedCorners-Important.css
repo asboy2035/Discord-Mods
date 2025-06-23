@@ -81,3 +81,8 @@
 .card_f369d {
   border-radius: 1.25rem !important;
 }
+
+/*Rounded setting panel*/
+#app-mount .layer__960e4 ~ .layer__960e4 {
+  border-radius: 2rem !important;
+}
