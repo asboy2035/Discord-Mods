@@ -1,0 +1,41 @@
+:root {
+  --maxRadius: 1.75rem;
+}
+
+.topPill_aa8da2 .item_aa8da2,
+.wrapper__3412a, .searchBar__5ec2f,
+button[type="button"],
+.container_e45859,
+.channelTextArea_f75fb0, .channelTextArea_f75fb0 .scrollableContainer__74017 .themedBackground__74017, .channelTextArea_f75fb0 .button__24af7,
+.wrapper__2ea32,
+.wrapper__6e9f8,
+.circleIconButton__5bc7e {
+  border-radius: var(--maxRadius) !important;
+  overflow: hidden
+}
+
+.container__133bf::after,
+.content_f75fb0::after,
+.container_d08938::after,
+.sidebarList_c48ade {
+  border-top-left-radius: 1.5rem;
+}
+
+/* Context Menu */
+.menu_c1e9c4 {
+  border-radius: 1.75rem !important;
+}
+.item_c1e9c4 {
+  border-radius: var(--maxRadius) !important;
+}
+
+/* Friends List */
+.peopleListItem_cc6179 {
+  border-radius: var(--maxRadius) !important;
+}
+.peopleListItem_cc6179 > .listItemContents_fc004c {
+  margin: 0 0.5rem;
+}
+.userInfo__0a06e {
+  align-items: center;
+}
