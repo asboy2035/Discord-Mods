@@ -72,14 +72,14 @@ main,
 .applicationStore_f07d62, /* Nitro */
 .homeWrapperNormal__0920e, .homeWrapper__0920e,
 section,
-.mainPageScroller_ca1a02, .auto_d125d2, .scrollerBase_d125d2,
+.mainPageScroller_ca1a02, .auto_d125d2, .scrollerBase_d125d2:not(.popout__3f413),
 .container_ca1a02,
 .shop__6db1d, /* shop  */
-.shopScroll__6db1d, .thin_d125d2, .scrollerBase_d125d2,
+.shopScroll__6db1d, .thin_d125d2,
 .shopViewWrapper__6db1d, .visible__6db1d,
 .shop__08415,
 .page_c791b2, /* Members page */
 .header_c791b2, .container__9293f, .themed__9293f,
-.thin_d125d2, .scrollerBase_d125d2 {
+.thin_d125d2 {
   background: transparent !important;
 }
