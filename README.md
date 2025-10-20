@@ -69,7 +69,7 @@ Note: You will need a Discord client mod to use these styles. Check out [Vencord
     ```
     https://dmods.asboy2035.com/Discord26.css
     ```
-    Inspired by macOS 26. Uses lots of pills.
+    Inspired by macOS 26. Uses lots of pills. Contains glass!
     ![Screenshot](/screenshots/Discord-26.png)
 
 ---
