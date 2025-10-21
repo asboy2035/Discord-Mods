@@ -1,6 +1,13 @@
-// Bring back macOS app border
-body
-  border: rgba(201, 201, 201, 0.5) 1px solid
-  border-radius: 10px
-  width: calc(100vw - 2px)
-  height: calc(100vh - 2px)
+// (Deprecated) Bring back macOS app border
+body::after
+  position: fixed
+  top: 1rem
+  right: 1rem
+  display: flex
+  content: "Theme: 'macOS Border' is deprecated. Please remove it from your Vencord/BetterDiscord themes."
+  color: var(--header-primary)
+  background: var(--background-base-low)
+  z-index: 99999
+  padding: 1.5rem 2rem
+  border: var(--text-tertiary) 0.1rem solid
+  border-radius: 1.5rem
