@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7db162f8-5c1f-498c-8775-e74a3dea33d6" name="Changes" comment="fix readme issue">
-      <change afterPath="$PROJECT_DIR$/screenshots/MoreRoundedCorners.png" afterDir="false" />
+    <list default="true" id="7db162f8-5c1f-498c-8775-e74a3dea33d6" name="Changes" comment="Brand-new images, README">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Discord-26.png" beforeDir="false" afterPath="$PROJECT_DIR$/screenshots/Discord-26.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/beegGif.png" beforeDir="false" afterPath="$PROJECT_DIR$/screenshots/beegGif.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/semiOpaqueMain.png" beforeDir="false" afterPath="$PROJECT_DIR$/screenshots/semiOpaqueMain.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/systemFonts.png" beforeDir="false" afterPath="$PROJECT_DIR$/screenshots/systemFonts.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/transparency.png" beforeDir="false" afterPath="$PROJECT_DIR$/screenshots/transparency.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,7 +145,7 @@
       <workItem from="1761041542554" duration="1459000" />
       <workItem from="1761043116880" duration="4232000" />
       <workItem from="1761056316608" duration="54000" />
-      <workItem from="1761056624136" duration="2544000" />
+      <workItem from="1761056624136" duration="3352000" />
     </task>
     <task id="LOCAL-00001" summary="new readme">
       <option name="closed" value="true" />
@@ -226,7 +219,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761056343503</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Brand-new images, README">
+      <option name="closed" value="true" />
+      <created>1761059371314</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1761059371314</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -242,6 +243,7 @@
     <MESSAGE value="update to sass, fix discord 26 issue" />
     <MESSAGE value="deprecate macOSBorder.sass" />
     <MESSAGE value="fix readme issue" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix readme issue" />
+    <MESSAGE value="Brand-new images, README" />
+    <option name="LAST_COMMIT_MESSAGE" value="Brand-new images, README" />
   </component>
 </project>
