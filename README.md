@@ -8,7 +8,7 @@ Note: You will need a Discord client mod to use these styles. Check out [Vencord
 
 1. ## Transparency
     ```
-    https://dmods.asboy2035.com/Transparency.css)
+    https://dmods.asboy2035.com/Transparency.css
     ```
     
     This theme provides transparency to the Discord UI. Also, be sure to check out Demureify and Semi-transparent main
@@ -19,7 +19,7 @@ Note: You will need a Discord client mod to use these styles. Check out [Vencord
 
 2. ## Demureify
     ```
-    https://dmods.asboy2035.com/DemureifyNonTransparent.css)
+    https://dmods.asboy2035.com/DemureifyNonTransparent.css
     ```
     
     #### Designed for Transparency.
